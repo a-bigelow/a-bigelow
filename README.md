@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello there!
 
-<!--
-**a-bigelow/a-bigelow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Adam, and I'm a Cloud Engineer from the Research Triangle. I'm interested in helping to build the next generation of software abstractions for developing applications in the Cloud ⛅️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning: 
+    - Aspects based Programming
+    - Advanced Typescript
+- 👯 I’m looking to collaborate on: 
+    - CDK Constructs (see [AWS Gameservers](https://github.com/a-bigelow/aws-gameservers) for an example)
+- 💬 Ask me about: 
+    - AWS 
+    - CDK 
+    - Cloud Architecture
+- 📫 How to reach me:
+    - Linkedin [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-icon.svg" />][linkedin]
+
+[linkedin]:https://www.linkedin.com/in/adam-bigelow-b947a563/
