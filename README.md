@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning: 
     - Aspects based Programming
-    - Advanced Typescript
+    - The [Constructs](https://github.com/aws/constructs) programming model
+    - Typescript/NodeJS
 - 👯 I’m looking to collaborate on: 
     - CDK Constructs (see [AWS Gameservers](https://github.com/a-bigelow/aws-gameservers) for an example)
 - 💬 Ask me about: 
