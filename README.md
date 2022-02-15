@@ -1,6 +1,6 @@
 ## Hello there!
 
-### My name is Adam, and I'm a Cloud Engineer from the Research Triangle. I'm interested in helping to build the next generation of software abstractions for developing applications in the Cloud ⛅️
+### My name is Adam, and I'm a Senior Cloud Engineer from the Research Triangle. I'm interested in helping to build the next generation of software abstractions for developing applications in the Cloud ⛅️
 
 
 - 🌱 I’m currently learning: 
