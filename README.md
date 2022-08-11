@@ -4,8 +4,8 @@
 
 
 - 🌱 I’m currently learning: 
-    - Aspects based Programming
-    - The [Constructs](https://github.com/aws/constructs) programming model
+    - Golang
+    - K8s
     - Typescript/NodeJS
 - 👯 I’m looking to collaborate on: 
     - CDK Constructs
