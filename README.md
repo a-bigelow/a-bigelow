@@ -1,6 +1,6 @@
 Hey There.
 
-My name is Adam, and I'm a Cloud engineer from central NC.
+My name is Adam, and I'm a DevOps Consultant from central NC.
 
 I enjoy chatting with folks about IaC, cloud-native delivery patterns, and reducing operational complexity.
 
