@@ -1,0 +1,3 @@
+# For when an object or CRD has a finalizer that causes a delete deadlock.
+# If you've already issued one (or more) delete command(s), there's a good chance that the object will delete as soon as you run this, so buyer beware.
+kubectl patch <type>/<object-name> -p '{"metadata":{"finalizers":[]}}' --type=merge
